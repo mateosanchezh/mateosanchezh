@@ -1,45 +1,60 @@
-# ¡Hola, soy [Yesid Sanchez]! 👋
+# 👋 Hola, soy Yesid Sanchez
 
-## 🌟 Sobre Mí
+Soy un **desarrollador backend** apasionado con un enfoque en soluciones robustas y eficientes. Mi experiencia abarca desde el desarrollo de sistemas backend hasta la creación de interfaces web interactivas.
 
-Soy un desarrollador backend apasionado con experiencia en:
+![Developer](https://media.giphy.com/media/3o7TKT6Xq5B5CQHZPO/giphy.gif)
 
-- 🌐 **Backend**: Java, Python, Spring
-- 💻 **Desarrollo Web**: HTML, CSS, JavaScript, React
-- 🗃️ **Bases de Datos**: MySQL, MongoDB
+## 🌐 Experiencia y Habilidades
+
+### Backend
+- **Java**: Desarrollo de aplicaciones con Java y frameworks como Spring.
+- **Python**: Creación de scripts y aplicaciones eficientes.
+- **Spring**: Implementación de soluciones basadas en el framework Spring.
+
+![Backend](https://media.giphy.com/media/xT0BKKmtwAlyq0jUO8/giphy.gif)
+
+### Frontend
+- **HTML5**: Estructuración de contenido web.
+- **CSS3**: Diseño y estilo con CSS.
+- **JavaScript**: Dinamismo y funcionalidad en la web.
+
+![Frontend](https://media.giphy.com/media/3ohs4l1p8c2hZeNV5G/giphy.gif)
+
+### Bases de Datos
+- **MySQL**: Gestión de bases de datos relacionales.
+- **MongoDB**: Almacenamiento y manejo de datos no relacionales.
+- **PostgreSQL**: Soluciones avanzadas de bases de datos.
+
+![Database](https://media.giphy.com/media/8N0Q5MYYbdxne/giphy.gif)
 
 ## 🚀 Proyectos Destacados
 
-- [**Encriptador de texto - Alura**](https://github.com/mateosanchezh/Encriptador) - Challenger hecho para un curso de Alura.
+- **[Encriptador de texto - Alura](https://github.com/mateosanchezh/Encriptador)**: Herramienta para cifrar y descifrar texto, desarrollada como parte de un curso en Alura.
 
-## 🛠️ Habilidades
+![Project](https://media.giphy.com/media/3o6ZsYtDEemrh9BYpG/giphy.gif)
 
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?style=for-the-badge&logo=javascript&logoColor=black)
+## 📈 Estadísticas de GitHub
 
-### Tecnologías Backend
-
-- ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-%233B4D99.svg?style=for-the-badge&logo=python&logoColor=white)
-- ![Spring](https://img.shields.io/badge/Spring-%232B6C2C.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-### Bases de Datos
-
-- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23447A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## 📈 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateosanchezh&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateosanchezh&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 ## 📬 Contacto
 
-- 📧 [mateo705@hotmail.com](mailto:mateo705@hotmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yesidsanchez/)
+- **Correo Electrónico**: [mateo705@hotmail.com](mailto:mateo705@hotmail.com)
+- **LinkedIn**: [Yesid Sanchez](https://www.linkedin.com/in/yesidsanchez/)
 
-## 🧩 Mis Tecnologías Favoritas
+![Contact](https://media.giphy.com/media/3o7TKtRhF4kGctd6d6/giphy.gif)
 
-```text
-🌟 Desarrollo Web, Backend, Bases de Datos, UI/UX Design
+## 🎯 Áreas de Interés
+
+- **Desarrollo Web**: Creación de experiencias de usuario ricas.
+- **Backend**: Construcción de sistemas eficientes y escalables.
+- **Bases de Datos**: Diseño y optimización de estructuras de datos.
+- **UI/UX Design**: Mejora de la interacción del usuario con interfaces intuitivas.
+
+![Interests](https://media.giphy.com/media/26FPOX7iP5Jz7TGy8/giphy.gif)
+
+---
+
+¡Gracias por visitar mi perfil! Si estás interesado en colaborar o quieres conocer más sobre mis proyectos, ¡no dudes en contactarme!
+
+![Thank You](https://media.giphy.com/media/xT9DPLHkEZZ2DDW9dC/giphy.gif)
