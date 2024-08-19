@@ -1,60 +1,53 @@
 # 👋 Hola, soy Yesid Sanchez
 
-Soy un **desarrollador backend** apasionado con un enfoque en soluciones robustas y eficientes. Mi experiencia abarca desde el desarrollo de sistemas backend hasta la creación de interfaces web interactivas.
+Soy un **desarrollador backend** con experiencia en la creación de soluciones robustas y eficientes. Me apasiona el desarrollo backend y el diseño de interfaces web funcionales.
 
-![Developer](https://media.giphy.com/media/3o7TKT6Xq5B5CQHZPO/giphy.gif)
-
-## 🌐 Experiencia y Habilidades
+## 🌟 Mi Experiencia
 
 ### Backend
-- **Java**: Desarrollo de aplicaciones con Java y frameworks como Spring.
-- **Python**: Creación de scripts y aplicaciones eficientes.
-- **Spring**: Implementación de soluciones basadas en el framework Spring.
-
-![Backend](https://media.giphy.com/media/xT0BKKmtwAlyq0jUO8/giphy.gif)
+- **Java** & **Spring**: Desarrollo de aplicaciones escalables y eficientes.
+- **Python**: Creación de scripts y aplicaciones de alto rendimiento.
 
 ### Frontend
-- **HTML5**: Estructuración de contenido web.
-- **CSS3**: Diseño y estilo con CSS.
-- **JavaScript**: Dinamismo y funcionalidad en la web.
-
-![Frontend](https://media.giphy.com/media/3ohs4l1p8c2hZeNV5G/giphy.gif)
+- **HTML5**, **CSS3**, **JavaScript**, **Angular**: Diseño de interfaces web intuitivas y responsivas.
 
 ### Bases de Datos
-- **MySQL**: Gestión de bases de datos relacionales.
-- **MongoDB**: Almacenamiento y manejo de datos no relacionales.
-- **PostgreSQL**: Soluciones avanzadas de bases de datos.
-
-![Database](https://media.giphy.com/media/8N0Q5MYYbdxne/giphy.gif)
+- **MySQL**, **MongoDB**, **PostgreSQL**: Gestión y optimización de bases de datos.
 
 ## 🚀 Proyectos Destacados
 
-- **[Encriptador de texto - Alura](https://github.com/mateosanchezh/Encriptador)**: Herramienta para cifrar y descifrar texto, desarrollada como parte de un curso en Alura.
-
-![Project](https://media.giphy.com/media/3o6ZsYtDEemrh9BYpG/giphy.gif)
+- **[Encriptador de texto - Alura](https://github.com/mateosanchezh/Encriptador)**: Herramienta para cifrar y descifrar texto, desarrollada para un curso en Alura.
 
 ## 📈 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateosanchezh&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+### Actividad General
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateosanchezh&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=gruvbox)
+
+### Lenguajes Más Usados
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateosanchezh&layout=compact&theme=gruvbox)
+
+### Historial de Commits
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mateosanchezh&theme=gruvbox)
+
+### Contribuciones
+
+![Contributions](https://github.com/mateosanchezh/github-activity-readme)
 
 ## 📬 Contacto
 
 - **Correo Electrónico**: [mateo705@hotmail.com](mailto:mateo705@hotmail.com)
 - **LinkedIn**: [Yesid Sanchez](https://www.linkedin.com/in/yesidsanchez/)
 
-![Contact](https://media.giphy.com/media/3o7TKtRhF4kGctd6d6/giphy.gif)
-
 ## 🎯 Áreas de Interés
 
-- **Desarrollo Web**: Creación de experiencias de usuario ricas.
-- **Backend**: Construcción de sistemas eficientes y escalables.
-- **Bases de Datos**: Diseño y optimización de estructuras de datos.
-- **UI/UX Design**: Mejora de la interacción del usuario con interfaces intuitivas.
-
-![Interests](https://media.giphy.com/media/26FPOX7iP5Jz7TGy8/giphy.gif)
+- **Desarrollo Web**: Creación de experiencias web modernas y accesibles.
+- **Backend**: Construcción de sistemas eficientes y bien estructurados.
+- **Bases de Datos**: Optimización y diseño de esquemas de datos.
+- **UI/UX Design**: Diseño intuitivo y centrado en el usuario.
 
 ---
 
-¡Gracias por visitar mi perfil! Si estás interesado en colaborar o quieres conocer más sobre mis proyectos, ¡no dudes en contactarme!
-
-![Thank You](https://media.giphy.com/media/xT9DPLHkEZZ2DDW9dC/giphy.gif)
+¡Gracias por visitar mi perfil! Si tienes alguna propuesta de colaboración o simplemente quieres conectar, no dudes en contactarme.
