@@ -6,8 +6,9 @@
 
 ## 🌟 Sobre Mí
 
-- 👨‍💻 **Desarrollador Backend** con experiencia en Java, Python y Spring.
+- 👨‍💻 **Desarrollador Backend** con experiencia en Java, Python, C#, .NET y Spring.
 - 🌐 Apasionado por el **desarrollo web** y el diseño de interfaces de usuario.
+- 🗃️ Con conocimientos en **SQL Server, MySQL, PostgreSQL y MongoDB**.
 - 📚 Actualmente aprendiendo **tecnologías backend** y mejorando mis habilidades en **bases de datos**.
 - 🤝 Abierto a **colaboraciones** en proyectos interesantes que expandan mis conocimientos.
 
@@ -33,6 +34,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
 </p>
 
@@ -49,9 +52,10 @@
 ### **Bases de Datos** 🗃️
 
 <p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23447A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ### **Herramientas y Tecnologías** 🛠️
@@ -60,6 +64,7 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
 </p>
 
@@ -75,7 +80,5 @@
 
 ---
 ¡Gracias por visitar mi perfil! 😊 Si tienes alguna idea interesante, proyecto en mente o simplemente quieres conversar sobre tecnología, no dudes en ponerte en contacto. ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones!
-
-¡Espero conectar contigo pronto!
 
 👋 Yesid Sanchez
